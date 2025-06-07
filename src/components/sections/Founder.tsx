@@ -6,7 +6,6 @@ import {
   Linkedin, 
   Twitter, 
   Award, 
-  BookOpen, 
   Users, 
   Target, 
   Zap, 
@@ -201,9 +200,9 @@ const Founder = () => {
                   <div className="absolute -left-4 -top-2 text-6xl text-blue-200 font-serif">"</div>
                   <blockquote className="pl-8 pr-4 py-6 bg-white/70 backdrop-blur-sm rounded-2xl border border-white/50 shadow-lg">
                     <p className="text-xl text-gray-800 font-medium leading-relaxed mb-4">
-                      Innovation isn't just about creating something new—it's about solving real problems 
+                      Innovation isn&apos;t just about creating something new—it&apos;s about solving real problems 
                       that matter. Every line of code, every strategy, every solution we craft at AceHub 
-                      is designed to create meaningful impact in people's lives and businesses.
+                      is designed to create meaningful impact in people&apos;s lives and businesses.
                     </p>
                     <cite className="text-blue-600 font-semibold">— Prince Chukwuemeka</cite>
                   </blockquote>
@@ -333,7 +332,7 @@ const Founder = () => {
                     Building Tomorrow's Digital Landscape
                   </h3>
                   <p className="text-xl leading-relaxed mb-8 text-blue-100">
-                    Prince's vision extends beyond traditional boundaries—creating an ecosystem where 
+                    Prince&apos;s vision extends beyond traditional boundaries—creating an ecosystem where 
                     cutting-edge technology serves humanity, where innovation drives positive change, and 
                     where every digital solution contributes to a more connected, efficient, and empowered world.
                   </p>

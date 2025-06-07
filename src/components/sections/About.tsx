@@ -74,13 +74,13 @@ const About = () => {
           >
             <h3 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              Founded in 2019 in Nigeria and later established in the United Kingdom as AceHub Technologies Ltd (Company Number: 16475209), we have grown from a passionate developer's project to a trusted partner for companies worldwide. Our journey began with a simple belief: technology should empower businesses, not complicate them.
+              Founded in 2019 in Nigeria and later established in the United Kingdom as AceHub Technologies Ltd (Company Number: 16475209), we have grown from a passionate developer&apos;s project to a trusted partner for companies worldwide. Our journey began with a simple belief: technology should empower businesses, not complicate them.
             </p>
             <p className="text-gray-600 mb-6 leading-relaxed">
               Led by experienced developers and innovators, we specialize in web design, mobile development, digital marketing, and professional training. Our team combines creativity with technical expertise to deliver solutions that drive real business results. You can explore our open-source contributions and development journey on our <a href="https://github.com/pchukwuemeka424/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-800 underline font-semibold">GitHub profile</a>.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              We're not just developers or designers – we're strategic partners committed to your success. Every project we undertake is approached with the same level of dedication and attention to detail that has made us who we are today. Our commitment to open-source development and community contribution reflects our values of transparency and knowledge sharing.
+              We&apos;re not just developers or designers – we&apos;re strategic partners committed to your success. Every project we undertake is approached with the same level of dedication and attention to detail that has made us who we are today. Our commitment to open-source development and community contribution reflects our values of transparency and knowledge sharing.
             </p>
           </motion.div>
 
@@ -191,7 +191,7 @@ const About = () => {
         >
           <h3 className="text-3xl font-bold text-gray-900 text-center mb-8">Our Impact</h3>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-            {stats.map((stat, index) => (
+            {stats.map((stat) => (
               <div key={stat.label} className="text-center">
                 <div className="text-4xl font-bold text-blue-600 mb-2">{stat.number}</div>
                 <div className="text-gray-600">{stat.label}</div>

@@ -1,8 +1,6 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import Image from 'next/image';
-import { ExternalLink, Github } from 'lucide-react';
 import ProjectCarousel from '../ui/ProjectCarousel';
 
 const Projects = () => {
@@ -64,7 +62,8 @@ const Projects = () => {
     }
   ];
 
-  const categories = ['All', 'E-Commerce Platform', 'Web Development', 'Business Website', 'Service Platform', 'Non-Profit Website'];
+  // Unused for now but kept for future filtering implementation
+  // const categories = ['All', 'E-Commerce Platform', 'Web Development', 'Business Website', 'Service Platform', 'Non-Profit Website'];
   
   return (
     <section id="projects" className="py-20 bg-white">

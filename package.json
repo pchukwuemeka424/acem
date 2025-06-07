@@ -6,7 +6,9 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "vercel-build": "next build"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.16",

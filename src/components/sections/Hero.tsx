@@ -9,7 +9,6 @@ import {
   Play, 
   Pause,
   Globe, 
-  Code2, 
   Megaphone, 
   Smartphone,
   Star,

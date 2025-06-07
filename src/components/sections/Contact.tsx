@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import Image from 'next/image';
-import { Mail, Phone, MapPin, Clock } from 'lucide-react';
+import { Mail, Phone, MapPin, Clock, Facebook, Linkedin, Twitter, Instagram } from 'lucide-react';
 
 const Contact = () => {
 
@@ -51,7 +51,7 @@ const Contact = () => {
             Get In <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Touch</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ready to start your next project? We'd love to hear from you. Send us a message and we'll respond as soon as possible.
+            Ready to start your next project? We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
           </p>
         </motion.div>
 
@@ -101,9 +101,28 @@ const Contact = () => {
                 <MapPin className="w-16 h-16 text-blue-600 mx-auto mb-4" />
                 <h4 className="text-xl font-semibold text-gray-900 mb-2">Find Us Online</h4>
                 <p className="text-gray-600 mb-4">Connect with us through our digital channels</p>
-                <div className="space-y-2">
+                <div className="space-y-4">
                   <p className="text-gray-500 text-sm">Available worldwide</p>
                   <p className="text-gray-500 text-sm">Remote consultations available</p>
+                  
+                  <div className="flex flex-wrap items-center justify-center gap-4 mt-2">
+                    <a
+                      href="https://www.facebook.com/acehubtechpvt/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center bg-blue-600 text-white hover:bg-blue-700 rounded-lg px-4 py-2 transition-colors"
+                    >
+                      <Facebook className="w-5 h-5 mr-2" />
+                      <span>Facebook</span>
+                    </a>
+                    <a
+                      href="#" 
+                      className="flex items-center bg-gray-200 text-gray-700 hover:bg-gray-300 rounded-lg px-4 py-2 transition-colors"
+                    >
+                      <Linkedin className="w-5 h-5 mr-2" />
+                      <span>LinkedIn</span>
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>

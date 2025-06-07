@@ -1,0 +1,11 @@
+{
+  "buildCommand": "NEXT_TELEMETRY_DISABLED=1 next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "ignoreCommand": "echo 'Skipping linting step'",
+  "env": {
+    "NEXT_ESLINT_SKIP": "1"
+  }
+}
