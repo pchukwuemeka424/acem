@@ -1,0 +1,44 @@
+{
+  "name": "Prince Chukwuemeka - AceHub Technologies Ltd",
+  "short_name": "AceHub - Prince C.",
+  "description": "Prince Chukwuemeka, Founder & CEO of AceHub Technologies Ltd. Expert in web development, mobile apps, data analytics, cybersecurity & business analysis.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": ["business", "technology", "education", "productivity"],
+  "screenshots": [
+    {
+      "src": "/assets/images/prince_chukwuemeka.jpeg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "label": "Prince Chukwuemeka - Founder of AceHub Technologies Ltd"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/assets/images/acehub.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/images/acehub.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "developer": {
+    "name": "Prince Chukwuemeka",
+    "url": "https://acehubtechnologies.com"
+  },
+  "publisher": "AceHub Technologies Ltd",
+  "author": "Prince Chukwuemeka"
+}

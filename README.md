@@ -1,4 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AceHub - Tech Solutions & Digital Innovation
+
+A comprehensive tech company website built with Next.js 15, featuring modern design and comprehensive business services.
+
+## About AceHub
+
+AceHub is a forward-thinking technology company dedicated to transforming businesses through innovative digital solutions. Led by experienced developers and innovators, we specialize in:
+
+- **Web Design & Development** - Modern, responsive websites and web applications
+- **Mobile Development** - Native and cross-platform mobile applications  
+- **Digital Marketing** - Social media marketing and digital strategy
+- **Professional Training** - Data Analytics, Cyber Security, and Business Analysis
+
+## Tech Stack
+
+- **Framework**: Next.js 15 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Build Tool**: Next.js built-in bundler
+
+## Features
+
+- ✨ Modern, responsive design
+- 🎯 Comprehensive service showcase
+- 📱 Mobile-first approach
+- ⚡ Fast performance with Next.js 15
+- 🎨 Beautiful animations and interactions
+- 📧 Contact forms and business information
+- 🚀 SEO optimized
 
 ## Getting Started
 

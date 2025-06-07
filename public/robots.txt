@@ -1,0 +1,29 @@
+# Robots.txt for AceHub Technologies - Founded by Prince Chukwuemeka
+# Website: https://acehubtechnologies.com
+# Owner: Prince Chukwuemeka
+# Company: AceHub Technologies Ltd
+
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /assets/images/prince_chukwuemeka.jpeg
+Allow: /assets/images/acehub.png
+Allow: /assets/projects/
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /.env
+Disallow: /api/internal/
+
+# Crawl delay
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://acehubtechnologies.com/sitemap.xml
+
+# Additional information
+# Contact: Prince Chukwuemeka
+# Email: prince@acehubtechnologies.co.uk
+# Company: AceHub Technologies Ltd
+# Founder: Prince Chukwuemeka
