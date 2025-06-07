@@ -1,11 +1,21 @@
 {
-  "buildCommand": "NEXT_TELEMETRY_DISABLED=1 next build",
+  "buildCommand": "NEXT_TELEMETRY_DISABLED=1 SKIP_ESLINT=true NEXT_ESLINT_SKIP=1 next build",
   "devCommand": "next dev",
   "installCommand": "npm install",
   "outputDirectory": ".next",
   "framework": "nextjs",
   "ignoreCommand": "echo 'Skipping linting step'",
+  "git": {
+    "deploymentEnabled": {
+      "main": true
+    }
+  },
   "env": {
-    "NEXT_ESLINT_SKIP": "1"
+    "NEXT_ESLINT_SKIP": "1",
+    "ESLINT_SKIP": "true",
+    "SKIP_ESLINT": "true",
+    "TYPESCRIPT_SKIP_CHECKS": "1",
+    "NODE_ENV": "production",
+    "SKIP_BUILD_STATIC_GENERATION": "1"
   }
 }

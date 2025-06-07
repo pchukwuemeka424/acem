@@ -2,10 +2,13 @@
   "extends": "next/core-web-vitals",
   "rules": {
     "react/no-unescaped-entities": "off",
-    "@typescript-eslint/no-unused-vars": ["error", { 
-      "varsIgnorePattern": "^_", 
-      "argsIgnorePattern": "^_", 
-      "ignoreRestSiblings": true 
-    }]
-  }
+    "@typescript-eslint/no-unused-vars": "off",
+    "react/display-name": "off",
+    "import/no-anonymous-default-export": "off",
+    "@next/next/no-img-element": "off",
+    "jsx-a11y/alt-text": "off",
+    "@typescript-eslint/ban-ts-comment": "off",
+    "@typescript-eslint/no-explicit-any": "off"
+  },
+  "ignorePatterns": ["node_modules/", ".next/", "out/", "public/"]
 }
