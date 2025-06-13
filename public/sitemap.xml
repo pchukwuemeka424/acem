@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <!-- Homepage - Prince Chukwuemeka & AceHub Technologies -->
   <url>
-    <loc>https://acehubtechnologies.com/</loc>
+    <loc>https://acehubtechnologiesltd.co.uk/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://acehubtechnologies.com/assets/images/prince_chukwuemeka.jpeg</image:loc>
+      <image:loc>https://acehubtechnologiesltd.co.uk/assets/images/prince_chukwuemeka.jpeg</image:loc>
       <image:title>Prince Chukwuemeka - Founder &amp; CEO of AceHub Technologies</image:title>
       <image:caption>Prince Chukwuemeka, Tech Visionary and Founder of AceHub Technologies</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://acehubtechnologies.com/assets/images/acehub.png</image:loc>
+      <image:loc>https://acehubtechnologiesltd.co.uk/assets/images/acehub.png</image:loc>
       <image:title>AceHub Technologies - Founded by Prince Chukwuemeka</image:title>
       <image:caption>AceHub Technologies company logo</image:caption>
     </image:image>
@@ -20,7 +20,7 @@
   
   <!-- Services Page -->
   <url>
-    <loc>https://acehubtechnologies.com/#services</loc>
+    <loc>https://acehubtechnologiesltd.co.uk/#services</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -28,7 +28,7 @@
   
   <!-- Projects Page -->
   <url>
-    <loc>https://acehubtechnologies.com/#projects</loc>
+    <loc>https://acehubtechnologiesltd.co.uk/#projects</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -36,7 +36,7 @@
   
   <!-- About Page -->
   <url>
-    <loc>https://acehubtechnologies.com/#about</loc>
+    <loc>https://acehubtechnologiesltd.co.uk/#about</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -44,12 +44,12 @@
   
   <!-- Founder Page - Prince Chukwuemeka -->
   <url>
-    <loc>https://acehubtechnologies.com/#founder</loc>
+    <loc>https://acehubtechnologiesltd.co.uk/#founder</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
-      <image:loc>https://acehubtechnologies.com/assets/images/prince_chukwuemeka.jpeg</image:loc>
+      <image:loc>https://acehubtechnologiesltd.co.uk/assets/images/prince_chukwuemeka.jpeg</image:loc>
       <image:title>Prince Chukwuemeka - Tech Visionary &amp; AceHub Founder</image:title>
       <image:caption>Prince Chukwuemeka, Founder and CEO of AceHub Technologies</image:caption>
     </image:image>
@@ -57,7 +57,7 @@
   
   <!-- Contact Page -->
   <url>
-    <loc>https://acehubtechnologies.com/#contact</loc>
+    <loc>https://acehubtechnologiesltd.co.uk/#contact</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
