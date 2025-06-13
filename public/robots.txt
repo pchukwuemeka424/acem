@@ -20,7 +20,7 @@ Disallow: /api/internal/
 Crawl-delay: 1
 
 # Sitemap location
-Sitemap: https://acehubtechnologies.com/sitemap.xml
+Sitemap: https://acehubtechnologiesltd.co.uk/sitemap.xml
 
 # Additional information
 # Contact: Prince Chukwuemeka
